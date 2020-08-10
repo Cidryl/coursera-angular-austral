@@ -1,0 +1,17 @@
+mkdir express-server
+npm init
+npm install express --save
+npm install cors --save
+node app.js
+
+agregar header:
+Content-Type: application/json
+
+
+https://github.com/dfahlander/Dexie.js
+
+angular > npm install dexie --save
+
+https://github.com/ngx-translate/core
+
+npm install @ngx-translate/core --save
